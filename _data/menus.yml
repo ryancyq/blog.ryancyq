@@ -9,9 +9,9 @@
   icon: "&#xe893;"
 - name: FRIENDS
   url: /pages/friends.html
-  icon: "&#xe8a3;"
+  icon: "&#xe7ef;"
 - name: ABOUT
   url: //about.ryancyq.com
-  icon: "&#xe0d0;"
+  icon: "&#xe88f;"
 - name: navSearch
   switch: true
