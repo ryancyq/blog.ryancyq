@@ -1,7 +1,7 @@
 head: 
    favicon: "https://avatars.githubusercontent.com/ryancyq?s=30" #  the favicon
    high_res_favicon: "https://avatars.githubusercontent.com/ryancyq?s=200" #  the favicon using high quality format
-   apple_touch_icon: "https://avatars.githubusercontent.com/ryancyq?s=50" # the iOS Home button icon
+   apple_touch_icon: "https://avatars.githubusercontent.com/ryancyq?s=200" # the iOS Home button icon
    keywords: "blog jekyll mdui theme" #  the site keywords
 
 uiux:
