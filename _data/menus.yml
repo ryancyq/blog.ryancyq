@@ -2,13 +2,13 @@
   url: /
   icon: "&#xe88a;"
 - name: CATEGORY
-  url: /pages/category.html
+  url: /category/
   icon: "&#xe53b;"
 - name: TAGS
-  url: /pages/tags.html
+  url: /tags/
   icon: "&#xe893;"
 - name: FRIENDS
-  url: /pages/friends.html
+  url: /friends/
   icon: "&#xe7ef;"
 - name: ABOUT
   url: //about.ryancyq.com
